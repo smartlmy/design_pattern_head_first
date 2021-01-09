@@ -1,1 +1,2 @@
 # HEAD FIRST DESIGN PATTERN 示例代码
+## 装饰者模式
